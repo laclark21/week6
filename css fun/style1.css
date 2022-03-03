@@ -1,0 +1,45 @@
+p {
+  color:DarkMagenta;
+  text-align:center;
+}
+.cheese {
+  color: blue;
+  text-align: right;
+}
+.chicken {
+  color: black;
+  text-align:left;
+}
+body {background-color: plum}
+
+div {
+  background-color: white;
+  color: white;
+  padding: 25px;
+  text-align: center;
+}
+
+div:hover {
+  background-color: lightblue;
+}
+
+a.highlight:hover {
+  color:Lavender ;
+  font-size: 400px;
+}
+a:visited {
+  color: black;
+}
+
+h1 {
+  color:Indigo;
+  text-align:center;
+}
+div {
+  background-color: white;
+  width: 300px;
+  border: 90px solid pink;
+  padding: 70px;
+  margin: 200px;
+  align-content: center;
+}

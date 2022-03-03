@@ -1,0 +1,28 @@
+div {
+  background-color: white;
+  color: black;
+  padding: 25px;
+  text-align: center;
+}
+
+div:hover {
+  background-color: white;
+}
+div {
+  background-color: black;
+  width: 300px;
+  border: 90px solid pink;
+  padding: 70px;
+  margin: 70px;
+  align-content: center;
+}
+p {
+  display: none;
+  background-color: Pink;
+  padding: 20px;
+  font-size: 80px;
+}
+
+div:hover p {
+  display: block;
+}
